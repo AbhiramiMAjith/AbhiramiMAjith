@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... javaScript
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 📫 How to reach me ... dont
 
 <!---
 AbhiramiMAjith/AbhiramiMAjith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
